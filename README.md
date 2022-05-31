@@ -15,7 +15,6 @@ get api_key for ur telegram account using : https://my.telegram.org/apps
 then write up the code and start deploying in cloud runner
 
 
-https://github.com/Sanjay0302/Rnsitnotesfinderbot/blob/main/How%20it%20works.mp4
 
 
-https://github.com/Sanjay0302/Rnsitnotesfinderbot/raw/main/How%20it%20works.mp4
+
